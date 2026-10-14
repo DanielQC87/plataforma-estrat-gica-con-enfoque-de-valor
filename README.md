@@ -1,2 +1,2 @@
-# plataforma-estrat-gica-con-enfoque-de-valor
+# plataforma-estrategica-con-enfoque-de-valor
 Web
